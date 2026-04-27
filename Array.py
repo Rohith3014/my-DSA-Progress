@@ -1,9 +1,26 @@
-arr = [10, 25, 5, 40, 15]
+# Take number of elements from user
+n = int(input("Enter number of elements: "))
 
-max_val = arr[0]
+# Initialize empty list
+arr = []
 
-for i in arr:
-    if i > max_val:
-        max_val = i
+# Input elements
+print("Enter elements:")
+for i in range(n):
+    val = int(input())
+    arr.append(val)
 
-print("Maximum element =", max_val)
+# Check if list is not empty
+if n > 0:
+    # Assume first element is maximum
+    max_val = arr[0]
+
+    # Find maximum element
+    for i in arr:
+        if i > max_val:
+            max_val = i
+
+    # Print result
+    print("Maximum element =", max_val)
+else:
+    print("List is empty. No maximum value.")
