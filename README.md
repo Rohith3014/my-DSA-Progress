@@ -31,5 +31,5 @@ They help in repeating a block of code efficiently and are used in almost every 
 
  When iteration count is unknown
 
- Infinite loops with break
+ Infinite loops with break of the python
 
