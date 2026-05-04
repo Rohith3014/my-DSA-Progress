@@ -1,7 +1,7 @@
  Python for DSA – Basics
 
 This repository documents my journey of learning **Data Structures & Algorithms (DSA)** using Python.
-Currently, I am focusing on building strong fundamentals through Basics of the Python.
+Currently, I am focusing on building strong fundamentals through Basics From the Python.
 
 ----------------------
 
