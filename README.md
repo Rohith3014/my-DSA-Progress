@@ -1,16 +1,16 @@
 # 🐍 Python for DSA – Basics
 
 This repository documents my journey of learning **Data Structures & Algorithms (DSA)** using Python.
-Currently, I am focusing on building strong fundamentals starting from the **basics of Python**, which form the backbone of problem-solving in DSA.
+Currently, I am focusing on building strong fundamentals starting from the **basics of Python**, which form the backbone of problem-solving in the  DSA.
 
----
+-----
 
-## 📌 Goals
+## 📌 Goals.
 
-* Build a strong foundation in Python
-* Understand core programming concepts
-* Develop problem-solving skills
-* Prepare for advanced DSA topics
+* Build a strong foundation in Python.
+* Understand core programming concepts.
+* Develop problem-solving skills.
+* Prepare for advanced DSA topics.
 
 ---
 
@@ -22,10 +22,10 @@ Conditional statements are used to make decisions in programs based on certain c
 
 **Concepts Learned:**
 
-* Understanding conditional logic
-* Even / Odd number checking
-* Range-based conditions
-* Decision-making in programs
+* Understanding conditional logic.
+* Even / Odd number checking.
+* Range-based conditions.
+* Decision-making in programs.
 
 **Example:**
 
