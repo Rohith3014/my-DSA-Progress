@@ -143,3 +143,23 @@ I will continue updating this repository with:
 This is a personal learning repository, but suggestions and improvements are always welcome!
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Rohith3014/my-DSA-Progress/tree/master/0561-array-partition) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Rohith3014/my-DSA-Progress/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Rohith3014/my-DSA-Progress/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Rohith3014/my-DSA-Progress/tree/master/0561-array-partition) |
+<!---LeetCode Topics End-->
