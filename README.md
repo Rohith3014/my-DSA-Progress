@@ -4,17 +4,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 Currently, I am focusing on building strong fundamentals starting from the **basics of Python**, which form the backbone of problem-solving in the  DSA.
 
 -----
-
-## 📌 Goals.
-
-* Build a strong foundation in Python.
-* Understand core programming concepts.
-* Develop problem-solving skills.
-* Prepare for advanced DSA topics.
-
----
-
-## 📚 Topics Covered
+##  Topics Covered
 
 ### 🔹 If-Else Statements
 
@@ -40,9 +30,9 @@ else:
 
 ---
 
-## 🔁 Loops in DSA (For & While)
+##  Loops in DSA (For & While)
 
-### 📖 Introduction
+### Introduction
 
 Loops are one of the most important concepts in Data Structures and Algorithms (DSA).
 They help in repeating a block of code efficiently and are used in almost every problem.
