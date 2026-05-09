@@ -1,4 +1,4 @@
-# 🐍 Python for DSA – Basics
+#  Python for DSA – Basics
 
 This repository documents my journey of learning **Data Structures & Algorithms (DSA)** using Python.
 Currently, I am focusing on building strong fundamentals starting from the **basics of Python**, which form the backbone of problem-solving in the  DSA.
@@ -31,17 +31,9 @@ else:
 ---
 
 ##  Loops in DSA (For & While)
-
-### Introduction
-
-Loops are one of the most important concepts in Data Structures and Algorithms (DSA).
-They help in repeating a block of code efficiently and are used in almost every problem.
-
----
-
 ### 🔹 Types of Loops
 
-### 1️⃣ while Loop
+### 1️ while Loop
 
 Used when the number of iterations is unknown and depends on a condition.
 
@@ -70,7 +62,7 @@ while i <= 5:
 
 ---
 
-### 2️⃣ for Loop
+### 2️ for Loop
 
 Used when the number of iterations is known.
 
@@ -94,7 +86,7 @@ for i in range(1, 6):
 
 ---
 
-## 🧠 Why Learn Basics First?
+## Why Learn Basics First?
 
 Before jumping into advanced DSA topics like trees, graphs, or dynamic programming, it's important to master:
 
@@ -106,7 +98,7 @@ These concepts are used in almost every DSA problem.
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 I will continue updating this repository with:
 
@@ -128,7 +120,7 @@ I will continue updating this repository with:
 
 ---
 
-## ⭐ Contribution
+##  Contribution
 
 This is a personal learning repository, but suggestions and improvements are always welcome!
 
