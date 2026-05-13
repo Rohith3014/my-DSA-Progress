@@ -1,43 +1,46 @@
-# 1. Remove duplicates from list
-nums = [1, 2, 2, 3, 4, 4, 5]
-unique_nums = list(set(nums))
-print("1. Remove duplicates:", unique_nums)
+# Python program for set operations
 
+# Input lists
+list1 = [1, 2, 2, 3, 4, 4, 5]
+list2 = [3, 4, 5, 6, 7]
 
-# 2. Find intersection of two lists
-a = [1, 2, 3, 4]
-b = [3, 4, 5, 6]
-intersection = list(set(a) & set(b))
-print("2. Intersection:", intersection)
+# 1. Remove duplicates
+print("1. Remove duplicates:")
+print(list(set(list1)))
 
+# 2. Intersection
+print("\n2. Intersection of two lists:")
+print(list(set(list1) & set(list2)))
 
-# 3. Find union of two lists
-union = list(set(a) | set(b))
-print("3. Union:", union)
+# 3. Union
+print("\n3. Union of two lists:")
+print(list(set(list1) | set(list2)))
 
+# 4. Check common elements
+print("\n4. Common elements exist?")
+if set(list1) & set(list2):
+    print("Yes")
+else:
+    print("No")
 
-# 4. Check if two lists have common elements
-has_common = bool(set(a) & set(b))
-print("4. Common elements exist:", has_common)
+# 5. Difference between two sets
+print("\n5. Difference (list1 - list2):")
+print(set(list1) - set(list2))
 
+# 6. Subset / Superset
+a = {1, 2}
+b = {1, 2, 3, 4}
 
-# 5. Find difference between two sets
-difference = set(a) - set(b)
-print("5. Difference (a - b):", difference)
+print("\n6. Subset / Superset Check:")
+print("a is subset of b:", a.issubset(b))
+print("b is superset of a:", b.issuperset(a))
 
-
-# 6. Check subset/superset
-x = {1, 2}
-y = {1, 2, 3, 4}
-
-print("6. Is subset:", x.issubset(y))
-print("   Is superset:", y.issuperset(x))
-
-
-# 7. Count unique words in sentence
+# 7. Count unique words
 sentence = "python is easy and python is powerful"
+
 words = sentence.split()
 unique_words = set(words)
 
-print("7. Unique word count:", len(unique_words))
-print("   Unique words:", unique_words)
+print("\n7. Count unique words:")
+print("Unique words:", unique_words)
+print("Count:", len(unique_words))
