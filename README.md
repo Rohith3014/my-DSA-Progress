@@ -30,7 +30,7 @@ else:
 
 ---
 
-##  Loops in DSA (For & While)
+##  Loops in DSA (For & While) 
 ### 🔹 Types of Loops
 
 ### 1️ while Loop
