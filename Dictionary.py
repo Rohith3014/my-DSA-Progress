@@ -15,7 +15,7 @@ print(sorted_data)
 
 # 6. Find Duplicate Elements Using Dictionary
 
-nums = [1, 2, 3, 2, 4, 1]
+nums = [1, 2, 3, 2, 4, 1, 3]
 
 dup = {}
 
